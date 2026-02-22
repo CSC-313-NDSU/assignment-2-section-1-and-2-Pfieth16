@@ -1,0 +1,45 @@
+.index-body {
+  margin: 5%;
+}
+
+p,
+h1,
+h2,
+h3,
+h4 {
+  margin-left: 15px;
+}
+
+.dark-bg {
+  background-color: rgb(68, 68, 68);
+}
+
+.pale-text {
+  color: azure;
+}
+
+#bio-text {
+  margin-top: 15px;
+  font-size: large;
+}
+
+table,
+td,
+th {
+  border: 1px solid rgb(30, 30, 30);
+  text-align: center;
+  padding: 10px;
+}
+
+#TakeYourHeart {
+  padding-left: 40px;
+}
+
+#contact-form {
+  padding-left: 15px;
+  padding-right: 20%;
+}
+
+#gamemaker {
+  padding-left: 5%;
+}
